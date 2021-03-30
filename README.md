@@ -4,7 +4,7 @@
 
 ![Data Science Weekend – Data Science Indonesia](https://datascienceweekends.com/wp-content/uploads/2020/10/cropped-DSW-logo-black.png)
 
-This is the [hackathon](https://datascienceweekends.com/) challenge that focuses on analyzing, solving and hacking the real data problem. The challenge is to give analysis, insight, and problem-solving modelling provided by real data cases from industry and/or public data. The platform that will be used in this hackathon is **[Kaggle](https://www.kaggle.com/c/danthon2021/)**.
+This is the **[hackathon](https://datascienceweekends.com/)** challenge that focuses on analyzing, solving and hacking the real data problem. The challenge is to give analysis, insight, and problem-solving modelling provided by real data cases from industry and/or public data. The platform that will be used in this hackathon is **[Kaggle](https://www.kaggle.com/c/danthon2021/)**.
 
 <br>
 
