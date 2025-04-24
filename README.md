@@ -22,8 +22,3 @@ Using traffic data provided by the JDS, predict high jam reports in certain sect
 
 <br>
 
->  #### "TruePositive" Team Member:
-
-1. [Ridho Aryo Pratama](https://github.com/ridhoaryo)
-2. [Yosi Aditya Nugroho](https://github.com/yosiadityan)
-3. [Benedict Laiman](https://github.com/bolaubi)
